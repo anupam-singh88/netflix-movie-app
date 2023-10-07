@@ -1,5 +1,10 @@
 # Netflix Movie App
 
+## URL
+https://netflix-clone-bb923.web.app/
+
+![image](https://github.com/anupam-singh88/netflix-movie-app/assets/89381022/35f81fc0-8bfd-4781-95ab-001d1cd88205)
+
 ## Description
 This project is a simple movie app created using React.js. It dynamically displays movie posters fetched from a movie database.
 
@@ -22,5 +27,3 @@ This project is a simple movie app created using React.js. It dynamically displa
 5. Open your browser and go to `http://localhost:3000`.
 6. Browse through the movie posters.
 
-## URL
-https://netflix-clone-bb923.web.app/
